@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+Flutter ile yaptığım database bağlantısı olan bir To-Do App uygulaması.
 
-This project is a starting point for a Flutter application.
+->Uygulama İphone 15 simülatörde bu şekilde gözüküyor.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="379" alt="Ekran Resmi 2024-06-27 13 37 39" src="https://github.com/user-attachments/assets/dd278353-6d4b-4681-b315-1fec634d0312">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+->Tamamlamış olduğumuz görevlerin üstünü bu şekilde çizebiliyoruz veya onları listemizden kaldırabiliyoruz.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="397" alt="Ekran Resmi 2024-06-27 13 35 51" src="https://github.com/user-attachments/assets/c7324a4b-561d-47b8-8234-6a63071f0f25">
+
+->Yeni bir görev eklemesi yapabiliyoruz.
+
+<img width="398" alt="Ekran Resmi 2024-06-27 13 35 28" src="https://github.com/user-attachments/assets/0bed2dc7-6611-47a1-a502-33d3eae33346">
+
+
